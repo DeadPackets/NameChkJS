@@ -1,0 +1,19 @@
+{
+  "name": "namechkjs",
+  "version": "1.0.0",
+  "description": "Scrape https://namechk.com from the command line using NodeJS",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeadPackets/NameChkJS.git"
+  },
+  "author": "DeadPackets",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DeadPackets/NameChkJS/issues"
+  },
+  "homepage": "https://github.com/DeadPackets/NameChkJS#readme"
+}
